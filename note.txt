@@ -6,5 +6,5 @@ Git push
 Git pull
 Git merge
 Git Amend
-
+there are more git command however what we have now is enough for the START
 
